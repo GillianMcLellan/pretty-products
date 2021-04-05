@@ -82,7 +82,7 @@ ul li {
   padding: 0 .25em;
 }
 
-ul li: first-child {
+ul li:first-child {
   margin-right: auto;
 }
 
