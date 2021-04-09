@@ -4,7 +4,8 @@ html {
   line-height: 1.5;
 }
 
-*, *::before,
+*,
+*::before,
 *::after {
   box-sizing: inherit;
 }
